@@ -1,7 +1,3 @@
-# speech_recoginition_codtech
-CodTech Internship Task 2 - Speech Recognition System
-
-
 # 🎤 Speech Recognition System
 > ✅ CodTech Internship – Task 2
 
@@ -66,7 +62,7 @@ python speech_to_text.py
 🎤 Recording started... Speak now!
 ✅ Recording complete.
 🧠 Transcribing audio...
-📝 Transcribed Text: Hello this is a test for speech recognition 
+📝 Transcribed Text: Hello this is for voice recognition 
 ```
 
 ---
